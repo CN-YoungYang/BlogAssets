@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/CN-YoungYang/BlogAssets/main/docs/
+https://raw.githubusercontent.com/CN-YoungYang/BlogAssets/refs/heads/master/
